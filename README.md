@@ -68,6 +68,9 @@ The final dashboards allow drill-down forecasting at both donor-group and indivi
 
 This PDF is the main project deliverable and documents the methodology, dashboards, data pipeline, segmentation logic, forecasting approach, and reporting outputs.
 
+## Confidentiality Note
+This project is based on a real not-for-profit analytics engagement. Some organization-specific details, figures, and sensitive information have been anonymized, blurred, or intentionally omitted to protect privacy and confidentiality while still demonstrating the technical workflow and business value of the project.
+
 ## Why This Repository Fits Data Modeling, Dashboard, and Automation
 This project belongs in this repository because it combines three core themes:
 
